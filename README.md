@@ -1,1 +1,1 @@
-# Rudraksh-Chess
+# RudraGambit
